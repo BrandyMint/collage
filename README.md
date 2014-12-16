@@ -41,19 +41,3 @@ result == [
 
 Вот плагин коллажа который у нас есть сейчас - https://github.com/BrandyMint/mmm-tasty-static/blob/develop/app/javascripts/old/plugins/jquery.collage.js
 
-# Задача N2
-
-Оформить задачу N1 в виде проекта для nodejs.
-
-Для компиляции использовать grunt или gulp (он проще)
-
-У этого проекда должно быть:
-
-1. Каталог с исходником (src)
-2. Компиляция исходника в минимизированном виде в (dist)
-3. Тесты для количества картинок от 0 до 4.
-
-
-## Пример
-
-на grunt https://github.com/mduvall/grande.js
